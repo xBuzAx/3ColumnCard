@@ -6,7 +6,7 @@
 
 Thank you for looking here :)
 
-LIVE: 
+LIVE: https://xbuzax.github.io/3ColumnCard/
 
 [Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
 
